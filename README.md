@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mymarketpicks_ui
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# mymarketpicks_ui
+>>>>>>> a9fb424a4903f05023e2ac4d1367eb6ed16111b8
